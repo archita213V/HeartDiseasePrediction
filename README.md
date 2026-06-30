@@ -100,5 +100,3 @@ The models were evaluated using standard classification metrics such as:
 - Improve prediction performance
 
 ---
-
-GitHub: https://github.com/your-username
